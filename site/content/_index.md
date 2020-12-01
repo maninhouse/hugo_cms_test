@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: 品質優良、富誠信的傢俱行
+subtitle: 開業20年，深受顧客喜愛
+image: img/sofa02.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: 為何要選擇XX
+  text: 沒有為甚麼，選就對了! 還在懷疑??? 還不快選 選我選我 百萬小學堂  . . 誰能比我強
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: 產品與服務
+  text: 我們是傢俱行，所以我們提供的產品就是傢俱，椅子、桌子、桌椅、櫃子、還有啥? 你想的到的傢俱我們有95%的信心水準有你要的東西
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/discount01.jpg
+    text: 歐洲時尚風格傢俱
+  - image: img/bedroom01.jpg
+    text: 典雅臥房寢具，應有盡有
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: 產品價值
+  text: 我們售出的傢俱不僅有14天鑑賞期，還享有2年的免費售後服務，客戶永遠是我們的第一位，讓你享受帝王般的極致感受。
 ---
-
